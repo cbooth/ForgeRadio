@@ -4,7 +4,7 @@ error_reporting(0);
 
 require __DIR__ . '/vendor/autoload.php';
 
-const AUTH_FILE = 'forge-radio-2236af57181e.json';
+const AUTH_FILE = 'forge-radio-2236af57181e.secret.json';
 const SHOW_MASTER_SPREADSHEET_ID = '1xBPosA0PAF3rGvkDSoYLA0AIXmEj4Pc9fP5vV9r06B0';
 const SHOW_SCHEDULE_SHEET_VALUES_RANGE = ["'Shows'!A:C", "'Shows'!F:F"];
 
